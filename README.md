@@ -1,16 +1,15 @@
 ### Hi there 👋, I'm Isaac
 
 
-Welcome to my github
+Welcome to my Github
 
 
-- 🌱 I’m currently learning C and looking to collaborate on Web Development.
+🌱 I’m currently learning C and looking to collaborate on Web Development.
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bigizic)](https://git.io/streak-stats)
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bigizic"/></a>
+<a href="https://git.io/streak-stats"><img width="75%" src="https://streak-stats.demolab.com?user=Bigizic"/></a>
 
 
 
