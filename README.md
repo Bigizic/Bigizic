@@ -10,7 +10,7 @@ Welcome to my github
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bigizic)](https://git.io/streak-stats)
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bigizic"/></a>
 
 
 
