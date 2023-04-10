@@ -12,11 +12,11 @@
     <br>
     <br>
    <h3> Streaks </h3>
-    <a href="https://git.io/streak-stats"><img align="center" width="75%" alt="streaks" src="https://streak-stats.demolab.com?user=Bigizic"/></a>
+    <a href="https://git.io/streak-stats"><img align="center" width="70%" alt="streaks" src="https://streak-stats.demolab.com?user=Bigizic"/></a>
     <br>
     <div>
       <h3> Github Stats </h3>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bigizic&theme=github" alt="Isaac Stats"> </img>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bigizic&theme=github" width ="70%"alt="Isaac Stats"> </img>
     </div>
  </body>
  </html>
