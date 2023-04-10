@@ -16,12 +16,11 @@
     <br>
     <div>
       <h3> Github Stats </h3>
+     <img> http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bigizic&theme=github_dark </img>
     </div>
  </body>
  </html>
- 
- [![](https://raw.githubusercontent.com/Bigizic/Bigizic/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Bigizic/Bigizic/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Bigizic/Bigizic/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Bigizic/Bigizic/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 
