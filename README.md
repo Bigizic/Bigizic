@@ -16,7 +16,6 @@
     <br>
     <div>
       <h3> Github Stats </h3>
-      
     </div>
  </body>
  </html>
