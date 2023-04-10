@@ -1,8 +1,6 @@
-<h2> Hi there 👋, I'm Isaac </h2>
+<h2 align="left"> Hi there 👋, I'm Isaac </h2>
 <br>
 <br>
-
-
 <h3> Welcome to my Github. </h3>
 
 
