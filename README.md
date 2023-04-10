@@ -9,7 +9,7 @@ Welcome to my Github
 
 
 
-<a href="https://git.io/streak-stats"><img width="75%" src="https://streak-stats.demolab.com?user=Bigizic"/></a>
+<a href="https://git.io/streak-stats"><img align="center" width="75%" src="https://streak-stats.demolab.com?user=Bigizic"/></a>
 
 
 
