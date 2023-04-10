@@ -15,15 +15,9 @@
     <a href="https://git.io/streak-stats"><img align="center" width="70%" alt="streaks" src="https://streak-stats.demolab.com?user=Bigizic"/></a>
     <br>
       <h3> Github Stats </h3>
- <div>
-  <style>
-   .first {
-   display: inline-block;
-   }
-   <div class="first">
+ <div style="display:inline-block;">
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bigizic&theme=github" width ="70%"alt="Isaac Stats"> </img>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bigizic&theme=github&exclude={exclude}" alt="stats"> </img>
-    </div>
  </div>
  </body>
  </html>
