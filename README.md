@@ -15,8 +15,8 @@
     <a href="https://git.io/streak-stats"><img align="center" width="75%" alt="streaks" src="https://streak-stats.demolab.com?user=Bigizic"/></a>
     <br>
     <div>
-    <h3> Github Stats </h3>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bigizic&langs_count=10)](https://github.com/Bigizic/github-readme-stats)
+      <h3> Github Stats </h3>
+      <a href="https://github.com/Bigizic/github-readme-stats"> <img alt="Isaac's Github Stats" src="https://Bigizic-github-readme-stats.vercel.app/api/                      username=Bigizic&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
     </div>
 
 
