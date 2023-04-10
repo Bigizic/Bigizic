@@ -2,6 +2,12 @@
 
 
 Welcome to my github
+
+
+- 🌱 I’m currently learning C and looking to collaborate on Web Development.
+
+
+
 <!--
 **Bigizic/Bigizic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
