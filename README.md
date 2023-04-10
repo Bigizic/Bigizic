@@ -16,7 +16,7 @@
     <br>
       <h3> Github Stats </h3>
  <div>
-     <img border="10px solid red" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bigizic&theme=github" alt="Isaac Stats"> </img>
+     <img border="10px red" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bigizic&theme=github" alt="Isaac Stats"> </img>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bigizic&theme=github&exclude={exclude}" alt="stats"> </img>
  </div>
  </body>
