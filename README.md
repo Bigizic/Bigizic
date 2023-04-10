@@ -7,7 +7,7 @@ Welcome to my github
 - 🌱 I’m currently learning C and looking to collaborate on Web Development.
 
 
-https://github.com/Bigizic#streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bigizic)](https://git.io/streak-stats)
 
 
 
