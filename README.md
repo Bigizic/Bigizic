@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
   <body>
     <h1> Hi there 👋, I'm Isaac </h1>
