@@ -10,6 +10,9 @@ Welcome to my github
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bigizic)](https://git.io/streak-stats)
 
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+
+
 
 <!--
 **Bigizic/Bigizic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
