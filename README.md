@@ -1,7 +1,9 @@
-<h1> Hi there 👋, I'm Isaac </h1>
+<h2> Hi there 👋, I'm Isaac </h2>
+<br>
+<br>
 
 
-Welcome to my Github
+<h3> Welcome to my Github. </h3>
 
 
 🌱 I’m currently learning C and looking to collaborate on Web Development.
