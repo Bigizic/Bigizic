@@ -25,6 +25,10 @@
  <br>
  <br>
  <br>
+ <h3> Social Links </h3>
+ <div>
+ <a href="https://www.linkedin.com/in/isaac-ajibola-73a31025a" target="_blank"> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
+ </div>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bigizic&theme=github" width="70%" alt="Isaac Stats"> </img>
  </body>
  </html>
