@@ -1,5 +1,4 @@
 <html>
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css">
 <body>
  <h1> Hi there 👋, I'm Isaac </h1>
     <br>
@@ -26,14 +25,15 @@
  <br>
  <br>
  <br>
- <h3> Social Links </h3>
- <div>
- <a href="https://www.linkedin.com/in/isaac-ajibola-73a31025a" target="_blank"> <i class="bi bi-linkedin"> </i>
-</svg>
- </div>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bigizic&theme=github" width="70%" alt="Isaac Stats"> </img>
  </body>
  </html>
+ <h3> Social LInks </h3>
+ [![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bigizic)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/isaac-ajibola-73a31025a)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](Olalekanisaac75@gmail.com)
+ 
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bigizic&theme=github" width="70%" alt="Isaac Stats"> </img>
+
 
 
 
