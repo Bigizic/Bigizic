@@ -21,6 +21,10 @@
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bigizic&theme=github" width="40%" alt="stats"> </img>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bigizic&theme=github&utcOffset=+1.00" width="40%" alt="stats"> </img>
  </div>
+ <br>
+ <br>
+ <br>
+ <br>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bigizic&theme=github" width="70%" alt="Isaac Stats"> </img>
  </body>
  </html>
