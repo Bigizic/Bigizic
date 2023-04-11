@@ -23,8 +23,6 @@
  </div>
  <br>
  <br>
- <br>
- <br>
  <h3> Social Links </h3>
  </body>
  </html>
@@ -39,6 +37,10 @@
 
 
 
+ <br>
+ <br>
+ <br>
+ <br>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bigizic&theme=github" width="70%" alt="Isaac Stats"> </img>
 
 
