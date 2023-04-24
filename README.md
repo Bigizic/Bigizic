@@ -1,16 +1,7 @@
 <html>
 <body>
  <h1> Hi there 👋, I'm Isaac </h1>
-    <br>
-    <br>
-    <h3> Welcome to my Github. </h3>
-    <br>
-    <br>
-    <br>
-    <h4> 🌱 I’m currently learning C and looking to collaborate on Web Development. </h4>
-    <br>
-    <br>
-    <br>
+    
    <h3> Streaks </h3>
     <a href="https://git.io/streak-stats"><img align="center" width="70%" alt="streaks" src="https://streak-stats.demolab.com?user=Bigizic"/></a>
     <br>
