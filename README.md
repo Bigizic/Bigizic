@@ -7,7 +7,7 @@
     <br>
       <h3> Github Stats </h3>
  <div>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bigizic&theme=github&exclude={exclude}" width="40%" alt="stats"> </img>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bigizic&theme=github_dark&exclude={exclude}" width="40%" alt="stats"> </img>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bigizic&theme=github&exclude={exclude}" width="40%" alt"Stats"> </img>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bigizic&theme=github" width="40%" alt="stats"> </img>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bigizic&theme=github&utcOffset=+1.00" width="40%" alt="stats"> </img>
