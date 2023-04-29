@@ -33,7 +33,7 @@
  <br>
  <br>
  <h3> Profile Card </h3>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bigizic&theme=github" width="70%" alt="Isaac Stats"> </img>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bigizic&theme=github&utcOffset=+0.00" width="70%" alt="Isaac Stats"> </img>
 
 
 <!--
