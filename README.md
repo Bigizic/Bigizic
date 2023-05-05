@@ -3,7 +3,7 @@
  <h1> Hi there 👋, I'm Isaac </h1>
     
    <h3> Streaks </h3>
-    <a href="https://git.io/streak-stats"><img align="center" width="70%" alt="streaks" src="https://streak-stats.demolab.com?user=Bigizic&utcOffset=-7.00"/></a>
+    <a href="https://git.io/streak-stats"><img align="center" width="70%" alt="streaks" src="https://streak-stats.demolab.com?user=Bigizic&utcOffset=-12.00"/></a>
     <br>
       <h3> Github Stats </h3>
  <div>
