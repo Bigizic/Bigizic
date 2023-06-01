@@ -1,10 +1,11 @@
-<html>
-<body>
- <h1> Hi there 👋, I'm Isaac </h1>
+
+ # Hi there 👋, I'm Isaac
  
- <h2> TECH STACK </h2>
+ ## TECH STACK
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     
+<html>
+ <body>
    <h3> Streaks </h3>
     <a href="https://git.io/streak-stats"><img align="center" width="70%" alt="streaks" src="https://streak-stats.demolab.com?user=Bigizic&utcOffset=+0.00"/></a>
     <br>
