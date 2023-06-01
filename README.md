@@ -3,7 +3,7 @@
  
  ## TECH STACK:
  
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/-blue?style=for-the-badge&logo=C&logoColor=white) ![JS](https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=JAVASCRIPT&logoColor=black)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/-blue?style=for-the-badge&logo=C&logoColor=white) ![JS](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=JAVASCRIPT&logoColor=black)
     
 <html>
  <body>
