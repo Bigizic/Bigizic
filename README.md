@@ -1,6 +1,8 @@
 <html>
 <body>
  <h1> Hi there 👋, I'm Isaac </h1>
+ 
+ <h2> TECH STACK </h2>
     
    <h3> Streaks </h3>
     <a href="https://git.io/streak-stats"><img align="center" width="70%" alt="streaks" src="https://streak-stats.demolab.com?user=Bigizic&utcOffset=+0.00"/></a>
