@@ -3,7 +3,7 @@
  
  ## TECH STACK:
  
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/-red?style=for-the-badge&logo=C&logoColor=blue)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/-blue?style=for-the-badge&logo=C&logoColor=white)
     
 <html>
  <body>
