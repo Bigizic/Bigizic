@@ -1,19 +1,19 @@
 # Hi there 👋 i'm Isaac
 
 
- ### LANGUAGES:
+ ### TECH STACKS:
  
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![C](https://img.shields.io/badge/-blue?style=for-the-badge&logo=C&logoColor=white)
  ![JS](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=JAVASCRIPT&logoColor=black)
  ![BASH](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![REACT](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=REACT&logoColor=black)
+
  
  ### OS:
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu)
 
-### LIBRARIES:
-![REACT](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=REACT&logoColor=black)
 
 
     
