@@ -1,9 +1,13 @@
 
  # Hi there 👋, I'm Isaac
  
- ## Languages:
+ ## Tech Stacks:
  
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/-blue?style=for-the-badge&logo=C&logoColor=white) ![JS](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=JAVASCRIPT&logoColor=black) ![BF](https://img.shields.io/badge/BRAINF*CK-red?style=for-the-badge&logo=&logoColor=black) ![REACT](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=REACT&logoColor=black) ![BASH](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![C](https://img.shields.io/badge/-blue?style=for-the-badge&logo=C&logoColor=white)
+ ![JS](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=JAVASCRIPT&logoColor=black)
+ ![REACT](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=REACT&logoColor=black)
+ ![BASH](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
     
 <html>
  <body>
