@@ -8,7 +8,7 @@
  ![JS](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=JAVASCRIPT&logoColor=black)
  ![BASH](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=REACT&logoColor=black)
-![ML](https://img.shields.io/badge/Machinelearning-blue?style=for-the-badge&logo=Machinelearning&logoColor=blue)
+![ML](https://img.shields.io/badge/ML-blue?style=for-the-badge&logo=Machinelearning&logoColor=blue)
 
  
  ### OS:
