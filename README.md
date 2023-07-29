@@ -3,7 +3,9 @@ I'm an Engineer, I love to understand how things work
 👯 I’m looking to collaborate on:
 
 ML competetions.
+
 Open Source projects.
+
 🌱 I'm currently learning everyday
 
 
