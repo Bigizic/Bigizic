@@ -6,7 +6,7 @@ ML competetions.
 
 Open Source projects.
 
-🌱 I'm currently learning everyday
+🌱 I learn everyday
 
 
  ### TECH STACKS:
