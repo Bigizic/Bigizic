@@ -29,7 +29,7 @@ Open Source projects.
 <html>
  <body>
    <h3> Streaks </h3>
-    <a href="https://git.io/streak-stats"><img align="center" width="70%" alt="streaks" src="https://streak-stats.demolab.com?user=Bigizic&utcOffset=+0.00"/></a>
+    <a href="https://git.io/streak-stats"><img align="center" width="70%" alt="streaks" src="https://streak-stats.demolab.com?user=Bigizic&utcOffset=+0.00&theme=dark"/></a>
     <br>
       <h3> Github Stats </h3>
  <div>
