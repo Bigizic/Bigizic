@@ -1,12 +1,12 @@
 I'm an Engineer, I love to understand how things work
 
-👯 I’m looking to collaborate on:
+<!--👯 I’m looking to collaborate on:
 
 ML competetions.
 
 Open Source projects.
 
-🌱 I learn everyday
+🌱 I learn everyday-->
 
 
  ### TECH STACKS:
