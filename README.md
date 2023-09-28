@@ -17,6 +17,7 @@ Open Source projects.
  ![BASH](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=REACT&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=yellow)
+![Node.js](https://img.shields.io/badge/Node.js-grren?style=for-the-badge&logo=Node.js&logoColor=White)
 
  
  ### OS:
