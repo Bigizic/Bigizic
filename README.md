@@ -19,6 +19,7 @@ Open Source projects.
 ![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=White)
 ![Jquery](https://img.shields.io/badge/jquery-blue?style=for-the-badge&logo=Jquery&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)
 
  
  ### OS:
