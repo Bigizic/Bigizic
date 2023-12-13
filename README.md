@@ -36,8 +36,10 @@ Open Source projects.
     <br>
       <h3> Github Stats </h3>
  <div>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bigizic&theme=github_dark&exclude={exclude}" width="40%" alt="stats"> </img>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bigizic&theme=github_dark&exclude={exclude}" width="40%" alt"Stats"> </img>
+
+
+  
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bigizic&langs_count=20)](https://github.com/Bigizic/github-readme-stats)
  <!--
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bigizic&theme=github_dark" width="40%" alt="stats"> </img>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bigizic&theme=github_dark&utcOffset=+0.00" width="40%" alt="stats"> </img>
@@ -52,6 +54,7 @@ Open Source projects.
  
  [![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bigizic)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/isaac-ajibola-73a31025a)
+
  
 
 
