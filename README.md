@@ -39,7 +39,7 @@ Open Source projects.
 
 
   
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bigizic&langs_count=20)](https://github.com/Bigizic/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bigizic&langs_count=2)](https://github.com/Bigizic/github-readme-stats)
  <!--
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bigizic&theme=github_dark" width="40%" alt="stats"> </img>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bigizic&theme=github_dark&utcOffset=+0.00" width="40%" alt="stats"> </img>
