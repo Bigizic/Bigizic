@@ -58,7 +58,7 @@ Open Source projects.
 
 
 
- <br>
+ <!--<br>
  <br>
  <br>
  <br>
@@ -66,7 +66,6 @@ Open Source projects.
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bigizic&theme=github&utcOffset=+0.00" width="70%" alt="Isaac Stats"> </img>
 
 
-<!--
 **Bigizic/Bigizic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
