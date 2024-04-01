@@ -26,13 +26,13 @@ Open Source projects.
 
 
     
-<html>
+<!--<html>
  <body>
    <h1 align="center"> Streaks</h1>
   <img src="https://streak-stats.demolab.com/?user=Bigizic&utcOffset=+0.00&theme=dark" style="background-size:100%; width:100%; height:250px;">
     <br>
       <h3> Github Stats </h3>
- <div>
+ <div>-->
 
 
   
