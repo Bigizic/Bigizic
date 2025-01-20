@@ -15,13 +15,16 @@ Open Source projects.
 
 ``[Backend Technologies]``  ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=White) ![Jquery](https://img.shields.io/badge/jquery-blue?style=for-the-badge&logo=Jquery&logoColor=white)  ![BASH](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white-plastic)
 
-``[Frameworks]`` ![REACT](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=REACT&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=white)
+``[Frameworks]`` ![REACT](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=REACT&logoColor=black) 
+![Redux](https://img.shields.io/badge/redux-blue?style=for-the-badge&logo=redux&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=white)
 
 ``[Cloud/Database]`` ![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=yellow) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=black)
  
  ### OS:
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu)
+![CentOs](https://img.shields.io/badge/centos-black?style=for-the-badge&logo=centos)
 
 
 
