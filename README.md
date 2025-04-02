@@ -9,7 +9,7 @@ Open Source projects.
 🌱 I learn everyday-->
 
 
- ### TECH STACKS:
+ <!--### TECH STACKS:
 
 ``[Programming Languages]`` ![C](https://img.shields.io/badge/-blue?style=for-the-badge&logo=C&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JS](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=JAVASCRIPT&logoColor=black) ![TS](https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)
 
@@ -26,7 +26,7 @@ Open Source projects.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu)
 ![CentOs](https://img.shields.io/badge/centos-black?style=for-the-badge&logo=centos)
 
-
+-->
 
     
 <html>
