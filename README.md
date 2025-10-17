@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Isaac and I'm a computer programmer, from earth, i love to understand how things work.</h2>
+<h2 align="left">Hi i'm Isaac and I'm a computer programmer, i love to understand how things work.</h2>
 
 ###
 
