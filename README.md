@@ -1,82 +1,56 @@
-I'm an Engineer, I love to understand how things work
+<h2 align="left">Hi 👋! My name is Isaac and I'm a computer programmer, from earth, i love to understand how things work.</h2>
 
-<!--👯 I’m looking to collaborate on:
+###
 
-ML competetions.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bigizic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bigizic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Open Source projects.
+###
 
-🌱 I learn everyday-->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
+###
 
- <!--### TECH STACKS:
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-``[Programming Languages]`` ![C](https://img.shields.io/badge/-blue?style=for-the-badge&logo=C&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JS](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=JAVASCRIPT&logoColor=black) ![TS](https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)
+###
 
-``[Backend Technologies]``  ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=White) ![Jquery](https://img.shields.io/badge/jquery-blue?style=for-the-badge&logo=Jquery&logoColor=white)  ![BASH](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white-plastic)
+<div align="left">
+  <a href="https://youtube.com/@bigizic?si=JRr0BW_xDhCY2Yfx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=isaac_aj&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://mailto:olalekanisaac75@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/isaac-ajibola-73a31025a" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/smallsilverback" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
-``[Frameworks]`` ![REACT](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=REACT&logoColor=black) 
-![Redux](https://img.shields.io/badge/redux-blue?style=for-the-badge&logo=redux&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=white)
+###
 
-``[Cloud/Database]`` ![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=yellow) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=black)
- 
- ### OS:
-![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu)
-![CentOs](https://img.shields.io/badge/centos-black?style=for-the-badge&logo=centos)
+<br clear="both">
 
--->
+<img src="https://raw.githubusercontent.com/bigizic/bigizic/output/snake.svg" alt="Snake animation" />
 
-    
-<html>
- <body>
-   <h1 align="center"> Streaks</h1>
-  <img src="https://streak-stats.demolab.com/?user=Bigizic&utcOffset=+0.00&theme=dark" style="background-size:100%; width:100%; height:250px;">
-    <br>
-      <h3> Github Stats </h3>
- <div>
-
-
-  
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bigizic&langs_count=7)](https://github.com/Bigizic/github-readme-stats)
- <!--
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bigizic&theme=github_dark" width="40%" alt="stats"> </img>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bigizic&theme=github_dark&utcOffset=+0.00" width="40%" alt="stats"> </img>
--->
- </div>
- <br>
- <br>
- <h3> Social Links </h3>
- </body>
- </html>
- 
- 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/isaac-ajibola-73a31025a)
-
- 
-
-
-
-
-
- <!--<br>
- <br>
- <br>
- <br>
- <h3> Profile Card </h3>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bigizic&theme=github&utcOffset=+0.00" width="70%" alt="Isaac Stats"> </img>
-
-
-**Bigizic/Bigizic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on Web Dev
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
