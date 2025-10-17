@@ -1,4 +1,4 @@
-<h2 align="left">Hi i'm Isaac and I'm a computer programmer, i love to understand how things work.</h2>
+<h2 align="left">Hi <br></br>I'm Isaac and I'm a computer programmer, i love to understand how things work.</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style="display:flex;flex-wrap:wrap;">
   <a href="https://youtube.com/@bigizic?si=JRr0BW_xDhCY2Yfx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
