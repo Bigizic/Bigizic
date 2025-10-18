@@ -25,11 +25,12 @@
     alt="GitHub Streak"
     height="160"
   />
-  <div style="max-width:380px; min-width:280px; margin:10px;">
+  <div style="margin:10px;">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=bigizic&layout=compact&theme=chartreuse-dark&langs_count=15&border_radius=10"
     alt="Top Languages"
-    style="width:50%; border-radius:10px; height:auto;"
+    width="1000"
+    height="300"
   />
   </div>
 </div>
