@@ -39,7 +39,7 @@
   ☀️ Radiant Technologies In My Arsenal
 </h3>
 
-<div align="center">
+<div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
   </a>&nbsp;
@@ -95,7 +95,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="35" />
   </a>
 </div>
-
     <hr style="border:1px solid #00FF00; margin:40px auto; width:80%;" />
     <h3 style="color:#FF0000; text-shadow:0 0 8px rgba(255,0,0,0.8);">
       🌐 Connect with Me
