@@ -34,10 +34,8 @@
   />
   </div>
 </div>
-    <hr style="border:1px solid #00FF00; margin:40px auto; width:80%;" />
-    <h3 style="color:#00FF00; text-shadow:0 0 10px rgba(0,255,0,0.8);">
-  ☀️ Radiant Technologies In My Arsenal
-</h3>
+<hr style="border:1px solid #00FF00; margin:40px auto; width:80%;" />
+<h3 style="color:#00FF00; text-shadow:0 0 10px rgba(0,255,0,0.8);">☀️ Radiant Technologies In My Arsenal</h3>
 
 <div style="
   display:flex; 
