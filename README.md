@@ -100,9 +100,9 @@
       🌐 Connect with Me
     </h3>
     <p align="center">
-      <a href="https://youtube.com/@bigizic?si=JRr0BW_xDhCY2Yfx" target="_blank">
+      <!--<a href="https://youtube.com/@bigizic?si=JRr0BW_xDhCY2Yfx" target="_blank">
         <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" />
-      </a>
+      </a>-->
       <a href="mailto:olalekanisaac75@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
       </a>
@@ -112,9 +112,9 @@
       <a href="https://instagram.com/smallsilverback" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
       </a>
-      <a href="https://discord.gg/" target="_blank">
+      <!--<a href="https://discord.gg/" target="_blank">
         <img src="https://img.shields.io/badge/Isaac_aj-00FF00?style=for-the-badge&logo=discord&logoColor=000000" height="35" />
-      </a>
+      </a>-->
     </p>
     <hr style="border:1px solid #00FF00; margin:40px auto; width:80%;" />
     <p align="center" style="color:#00FF00; font-style:italic; text-shadow:0 0 10px rgba(0,255,0,0.8); font-size:1.2em;">
