@@ -1,14 +1,14 @@
 <div align="center" style="background-color:#000; padding:40px 20px; border-radius:12px; position:relative; overflow:hidden; font-family:sans-serif;">
 
-  <img 
+  <!--<img 
     src="https://i.pinimg.com/originals/38/4b/a2/384ba299f332f7ebddbe2782e3c583d8.gif" 
     alt="Escanor Background" 
     style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; opacity:0.18; mix-blend-mode:overlay;"
-  />
+  />-->
 
   <div style="position:relative; z-index:1;">
     <h1 style="color:#00FF00; font-size:2.8em; margin-bottom:0; text-shadow:0 0 10px rgba(0,255,0,0.7);">
-      ☀️ “I am Isaac”
+    I am Isaac
     </h1>
     <h2 style="color:#FF0000; font-size:1.8em; margin-top:0; text-shadow:0 0 8px rgba(255,0,0,0.6);">
       Programmer & Curious Mind
