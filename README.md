@@ -10,7 +10,7 @@
     <!--<h1 style="color:#00FF00; font-size:2.8em; margin-bottom:0; text-shadow:0 0 10px rgba(0,255,0,0.7);">
     </h1>-->
     <h2 style="color:#FF0000; font-size:1.8em; margin-top:0; text-shadow:0 0 8px rgba(255,0,0,0.6);">
-      Isaac, Programmer & Curious Mind
+      Isaac, Programmer & Curious Minded
     </h2>
 
   <div align="center" style="display:flex; flex-wrap:wrap; justify-content:left; align-items:left; margin:30px 0;">
