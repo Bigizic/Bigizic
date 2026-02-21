@@ -7,32 +7,31 @@
   />-->
 
   <div style="position:relative; z-index:1;">
-    <h1 style="color:#00FF00; font-size:2.8em; margin-bottom:0; text-shadow:0 0 10px rgba(0,255,0,0.7);">
-    I am Isaac
-    </h1>
+    <!--<h1 style="color:#00FF00; font-size:2.8em; margin-bottom:0; text-shadow:0 0 10px rgba(0,255,0,0.7);">
+    </h1>-->
     <h2 style="color:#FF0000; font-size:1.8em; margin-top:0; text-shadow:0 0 8px rgba(255,0,0,0.6);">
-      Programmer & Curious Mind
+      Isaac, Programmer & Curious Mind
     </h2>
 
   <div align="center" style="display:flex; flex-wrap:wrap; justify-content:left; align-items:left; margin:30px 0;">
-  <img
+  <!--<img
     src="https://github-readme-stats.vercel.app/api?username=bigizic&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=10"
     height="160"
     alt="GitHub Stats"
-  />
+  />-->
     <img
     src="https://streak-stats.demolab.com?user=bigizic&theme=chartreuse-dark&border_radius=10&layout=compact"
     alt="GitHub Streak"
     height="160"
   />
-  <div style="margin:10px;">
+  <!--<div style="margin:10px;">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=bigizic&layout=compact&theme=chartreuse-dark&langs_count=15&border_radius=10"
     alt="Top Languages"
     width="1000"
     height="300"
   />
-  </div>
+  </div>-->
 </div>
 <hr style="border:1px solid #00FF00; margin:40px auto; width:80%;" />
 <h3 style="color:#00FF00; text-shadow:0 0 10px rgba(0,255,0,0.8);">
