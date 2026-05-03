@@ -33,13 +33,14 @@
   />
   </div>-->
 </div>
-<hr style="border:1px solid #00FF00; margin:40px auto; width:80%;" />
+<!--<hr style="border:1px solid #00FF00; margin:40px auto; width:80%;" />
 <h3 style="color:#00FF00; text-shadow:0 0 10px rgba(0,255,0,0.8);">
   ☀️ Radiant Technologies In My Arsenal
-</h3>
+</h3>-->
+
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
   </a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank">
@@ -92,7 +93,7 @@
   </a>&nbsp;
   <a href="https://slack.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="35" />
-  </a>
+  </a>-->
 </p>
     <hr style="border:1px solid #00FF00; margin:40px auto; width:80%;" />
     <h3 style="color:#FF0000; text-shadow:0 0 8px rgba(255,0,0,0.8);">
