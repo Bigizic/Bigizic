@@ -24,6 +24,10 @@
     alt="GitHub Streak"
     height="160"
   />
+
+![See Full GitHub Stats](https://githubstats.isaacajibola.com?username=bigizic) 
+
+
   <!--<div style="margin:10px;">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=bigizic&layout=compact&theme=chartreuse-dark&langs_count=15&border_radius=10"
