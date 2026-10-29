@@ -25,7 +25,7 @@
     height="160"
   />
 
-![See Full GitHub Stats](https://githubstats.isaacajibola.com?username=bigizic) 
+[See Full GitHub Stats](https://githubstats.isaacajibola.com?username=bigizic) 
 
 
   <!--<div style="margin:10px;">
